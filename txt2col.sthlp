@@ -20,7 +20,7 @@ Splits one or more variables into several columns (new variables)
 {title:Syntax}
 
 {p 5 15}
-{cmd:txt2col} {it: {help varlist}} , {opt d:elim(string)} {opt r:egexout(string)} {opt v:ardelim(string)} 
+{cmd:txt2col} {it: {help varlist}} {it:[{help if}]} {it:[{help in}]} [, {opt d:elim(string)} {opt r:egexout(string)} {opt v:ardelim(string)} ]
 {p_end}
 
 
