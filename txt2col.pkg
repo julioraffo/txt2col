@@ -1,8 +1,8 @@
 v 3
 d txt2col splits str variable into new variables.
-d {bf:J. Raffo, WIPO, Economics and Statistics Division}
+d {bf:J. Raffo}
 d
-d After installation, see 
+d After installation, see
 d help {bf:txt2col}.
 d
 d Distribution-Date: 20170428

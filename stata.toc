@@ -1,0 +1,5 @@
+v 3
+d TXT2COL - Text-to-columns
+d J. Raffo
+d
+p txt2col 
